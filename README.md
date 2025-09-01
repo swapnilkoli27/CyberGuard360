@@ -39,3 +39,5 @@ It combines AI-powered analysis, network monitoring, malware detection, phishing
   - Intuitive dashboard with Start/Stop scanning
   - Live network and system stats
   - Alerts integrated into the interface
+ 
+  - contact - swapnil272001@gmail.com
